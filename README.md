@@ -1,2 +1,1 @@
-# Mac-Setup
-Mac setups and program install scripts
+# Still in Development
